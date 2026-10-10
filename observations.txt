@@ -1,0 +1,9 @@
+2026-09-24_14-22-12 - | Suspicious Activity at Cash Counter | Observed? (Yes/No) | Suspect Description (If Yes) |
+|--------------------------------------|--------------------|-----------------------------|
+| Distraction tactic by unfolding fabric directly over cash on the counter to obscure the cashier's view | Yes | Male, short dark hair, wearing a blue and black short-sleeved t-shirt with a white logo on the chest |
+
+2026-09-24_14-45-10 - | Activity | Observed? (Yes/No) | Suspect Track ID | Suspect Description |
+|----------|--------------------|------------------|---------------------|
+| CHAIN_SNATCH/GRABBING | No | none | N/A |
+| Weapon (Knife) | Yes | 1 | Male, maroon turtleneck sweater, dark hair, holding a large kitchen knife raised near head. |
+
